@@ -1,6 +1,14 @@
 site_name: Simulations
 site_url: https://frozenberrys.github.io/demsndocs
 
+nav:
+  - Home:
+    - docs/index.md
+  - Project:
+    - docs/projects.md
+    - "N-Body-Simulation": docs/projects/n-body-simulation.md
+
+
 theme:
   name: material
 
