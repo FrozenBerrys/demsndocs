@@ -4,8 +4,8 @@ site_url: https://frozenberrys.github.io/demsndocs
 nav:
   - Home:
     - index.md
-  - Project:
-    - projects.md
+  - Projects:
+    - "Projects": projects.md
     - "N-Body-Simulation": projects/n-body-simulation.md
 
 
