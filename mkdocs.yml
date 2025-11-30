@@ -19,8 +19,8 @@ theme:
   font:
     code: Pixelify Sans
 
-  logo: docs/m87.png
-  favicon: docs/m87.png
+  logo: assets/m87.png
+  favicon: images/m87.png
 
   palette:
     # Palette toggle for light mode
@@ -43,5 +43,11 @@ theme:
 extra:
   social:
     - icon: fontawesome/brands/mastodon 
-      link: https://frozenberrys.github.io/demsndocs
+      link: www.youtube.com
+
+  icon:
+    repo: fontawesome/brands/github
+
+repo_url: https://github.com/FrozenBerrys/demsndocs
+
 
