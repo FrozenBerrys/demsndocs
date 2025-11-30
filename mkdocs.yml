@@ -13,7 +13,6 @@ theme:
     - navigation.tabs.sticky
     - navigation.prune 
     - navigation.indexes 
-
     - search.suggest
 
   font:

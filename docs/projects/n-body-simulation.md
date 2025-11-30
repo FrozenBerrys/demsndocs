@@ -3,5 +3,4 @@ hide:
   - navigation
 ---
 
-# Projects
-
+# N-Body-Simulation
