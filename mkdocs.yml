@@ -5,7 +5,6 @@ nav:
   - Home:
     - index.md
   - Projects:
-    - "Projects": projects.md
     - "N-Body-Simulation": projects/n-body-simulation.md
 
 
@@ -22,6 +21,7 @@ theme:
     - navigation.prune 
     - navigation.indexes 
     - search.suggest
+    - navigation.path
 
   font:
     code: Pixelify Sans
