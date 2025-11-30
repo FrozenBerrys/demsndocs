@@ -1,1 +1,47 @@
-site_name: My Docs
+site_name: Simulations
+site_url: https://frozenberrys.github.io/demsndocs
+
+theme:
+  name: material
+
+  features:
+    - navigation.instant
+    - navigation.instant.prefetch
+    - navigation.instant.progress
+    - navigation.tabs
+    - navigation.tracking
+    - navigation.tabs.sticky
+    - navigation.prune 
+    - navigation.indexes 
+
+    - search.suggest
+
+  font:
+    code: Pixelify Sans
+
+  logo: docs/m87.png
+  favicon: docs/m87.png
+
+  palette:
+    # Palette toggle for light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to light mode
+
+    # Palette toggle for dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      toggle:
+        icon: material/weather-night
+        name: Switch to dark mode
+
+      primary: deep purple
+      accent: deep purple
+
+extra:
+  social:
+    - icon: fontawesome/brands/mastodon 
+      link: https://frozenberrys.github.io/demsndocs
+
