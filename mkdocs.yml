@@ -20,7 +20,7 @@ theme:
     code: Pixelify Sans
 
   logo: assets/m87.png
-  favicon: images/m87.png
+  favicon: assets/m87.png
 
   palette:
     # Palette toggle for light mode
@@ -39,12 +39,7 @@ theme:
 
       primary: deep purple
       accent: deep purple
-
-extra:
-  social:
-    - icon: fontawesome/brands/mastodon 
-      link: www.youtube.com
-
+      
   icon:
     repo: fontawesome/brands/github
 
